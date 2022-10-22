@@ -1,4 +1,4 @@
-# ✅ 16 BIT S/W ONLY
+#✅ 16 BIT S/W ONLY
 
 
 One day you woke up, finding yourself back in 1992. It would seem that the gypsy wife of the wizened old monk whose voodoo shop you smash up every day after school has cast a spell on you.
@@ -12,8 +12,8 @@ You, a programmer, decided to get a programming job in the 1992 world so you can
 The 80386 has an instruction to multiply two 32-bit integers into a 64-bit result, conventionally stored in EDX:EAX register (i.e. temporary variable) pairs because there were no 64-bit registers.
 
 
-# Input Specification
+#Input Specification
 The first line of input will be the integer (N)  such that 1 <= N <= 1000. The next (N) lines of input will contain integers (A), (B), and (P), such that -2^31 <= (A),(B), < 2^31. and -2^63 <= (P) < 2^63.
 
-# Output Specification
+#Output Specification
 For every line of input except the first, output 16 BIT S/W ONLY if the product is wrong (i.e. (A) * (B) != (P) ), or POSSIBLE DOUBLE SIGMA if correct.
